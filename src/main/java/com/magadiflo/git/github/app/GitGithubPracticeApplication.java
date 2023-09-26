@@ -15,7 +15,7 @@ public class GitGithubPracticeApplication {
     @Bean
     public CommandLineRunner run() {
         return args -> {
-            System.out.println("Iniciando aplicación");
+            System.out.println("¡¡¡...Iniciando aplicación...!!!");
         };
     }
 
